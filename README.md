@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Victor A. P. Oliveira. I am currently a teacher at IFPB. I am a researcher in the field of games and gamification. But I like a little bit of everything.
+
+This year (2024) I'm focused on developing my ![ascii game engine]() and learning the Rust language.
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash)](https://skillicons.dev)
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
