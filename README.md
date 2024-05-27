@@ -2,12 +2,14 @@
 
 My name is Victor A. P. Oliveira. I am currently a teacher at IFPB. I am a researcher in the field of games and gamification. But I like a little bit of everything.
 
-This year (2024) I'm focused on developing my ![ascii game engine]() and learning the Rust language.
+This year (2024) I'm focused on developing my ![ascii game engine](https://github.com/victorHSS/Cpp-ASCII-Game-Engine) and learning the Rust language.
+
+In additional, I have experience in the following languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash)](https://skillicons.dev)
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
-
+Some no longer used:
+[![My Skills](https://skillicons.dev/icons?i=basic,pascal,fortran)](https://skillicons.dev)
 
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -24,6 +26,7 @@ This year (2024) I'm focused on developing my ![ascii game engine]() and learnin
 ![image](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
 
 <!--
 **victorHSS/victorHSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
