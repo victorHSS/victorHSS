@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,shell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,sh)](https://skillicons.dev)
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS)](https://github.com/victorHSS/github-readme-stats)
 <!--
