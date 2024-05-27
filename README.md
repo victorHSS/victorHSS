@@ -26,7 +26,7 @@ This year (2024) I'm focused on developing my ![ascii game engine](https://githu
 
 ## My stats
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorHSS&theme=dark)
 
 <!--
 **victorHSS/victorHSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
