@@ -8,8 +8,9 @@ In additional, I have experience in the following languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash,fortran)](https://skillicons.dev)
 
-Some technologies I usually use:
+## Some technologies I usually use:
 
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
