@@ -6,12 +6,10 @@ This year (2024) I'm focused on developing my ![ascii game engine](https://githu
 
 In additional, I have experience in the following languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash,fortran)](https://skillicons.dev)
 
-Some no longer used:
-[![My Skills](https://skillicons.dev/icons?i=basic,pascal,fortran)](https://skillicons.dev)
+Some technologies I usually use:
 
-![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
