@@ -8,7 +8,7 @@
 ![image]([BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white))
 ![image]({[BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)})
 
-
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)" />
 <!--
 **victorHSS/victorHSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
