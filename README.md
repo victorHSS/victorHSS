@@ -6,7 +6,7 @@
 
 
 ![image]([BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white))
-![image]({BadgeURLHere})
+![image]({[BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)})
 
 
 <!--
