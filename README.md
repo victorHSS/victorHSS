@@ -5,7 +5,7 @@
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS)](https://github.com/victorHSS/github-readme-stats)
 
 
-![image]([BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white))
+![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![image]({[BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)})
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)" />
