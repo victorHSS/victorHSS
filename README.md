@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=c,c++,python,rust)](https://skillicons.dev)
+
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS)](https://github.com/victorHSS/github-readme-stats)
 <!--
 **victorHSS/victorHSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
