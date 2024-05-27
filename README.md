@@ -5,9 +5,8 @@
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS)](https://github.com/victorHSS/github-readme-stats)
 
 
-[https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
-](https://camo.githubusercontent.com/b99344397ca5e49f63a56a1ee07eb8fecc717625adecf682f517b4e136048b2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696272654f66666963652d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696272654f6666696365266c6f676f436f6c6f723d7768697465)
-https://camo.githubusercontent.com/cecac57eefa8900b49c3d425edae57d63dda6622c48ede5ed5d78e7f33461b29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f6273696469616e2d3438333639393f7374796c653d666f722d7468652d6261646765266c6f676f3d4f6273696469616e266c6f676f436f6c6f723d7768697465
+![image]([BadgeURLHere](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white))
+![image]({BadgeURLHere})
 
 
 <!--
