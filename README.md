@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash)](https://skillicons.dev)
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS)](https://github.com/victorHSS/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
 
 
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
