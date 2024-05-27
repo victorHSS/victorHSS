@@ -4,7 +4,7 @@ My name is Victor A. P. Oliveira. I am currently a teacher at IFPB. I am a resea
 
 This year (2024) I'm focused on developing my ![ascii game engine](https://github.com/victorHSS/Cpp-ASCII-Game-Engine) and learning the Rust language.
 
-In additional, I have experience in the following languages:
+## In additional, I have experience in the following languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash,fortran)](https://skillicons.dev)
 
@@ -24,6 +24,7 @@ In additional, I have experience in the following languages:
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![image](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
+## My stats
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorHSS&theme=dark)](https://github.com/victorHSS/github-readme-stats)
 
