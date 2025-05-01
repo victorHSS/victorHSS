@@ -6,7 +6,7 @@ This year (2024) I'm focused on developing my ![ascii game engine](https://githu
 
 ## In additional, I have experience in the following languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,bash,fortran)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,fortran,rust,bash)](https://skillicons.dev)
 
 ## Some technologies I usually use:
 
