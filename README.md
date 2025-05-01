@@ -2,7 +2,7 @@
 
 My name is Victor A. P. Oliveira. I am currently a teacher at IFPB. I am a researcher in the field of games and gamification. But I like a little bit of everything.
 
-This year (2024) I'm focused on developing my ![ascii game engine](https://github.com/victorHSS/Cpp-ASCII-Game-Engine) and learning the Rust language.
+This year (2025) I'm still focused on developing my ![ascii game engine](https://github.com/victorHSS/Cpp-ASCII-Game-Engine). By now, i'm studying the Assembly language (nasm), the C++20 pattern, software engeneering and a lot of things my mind asks.
 
 ## In additional, I have experience in the following languages:
 
